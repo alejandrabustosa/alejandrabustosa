@@ -14,45 +14,45 @@ Motivada por la resiliencia, la curiosidad y el deseo de ser una mejor versión 
 
 Skills 🛠️
 ***
-Data Analytics & Visualización:
+## Data Analytics & Visualización:
 
-Power BI
-Excel (Tablas dinámicas, Power Query, Gráficos)
+- Power BI
+- Excel (Tablas dinámicas, Power Query, Gráficos)
 
-SQL (MySQL) aprendiendo ⌛️
+- SQL (MySQL) aprendiendo ⌛️
 
-Looker Studio
+- Looker Studio
 
-Tableau
+- Tableau
 
-Airtable
+- Airtable
 
 
-Web & Herramientas de productividad:
+## Web & Herramientas de productividad:
 
-Microsoft Office Suite
+- Microsoft Office Suite
 
-Canva
+- Canva
 
-Habilidades blandas:
+## Habilidades blandas:
 
-Comunicación y hablar en público
+- Comunicación y hablar en público
 
-Enseñar
+- Enseñar
 
-Trabajo en equipo
+- Trabajo en equipo
 
-Resolución de problemas
+- Resolución de problemas
 
-Pensamiento crítico
+- Pensamiento crítico
 
-Adaptabilidad y resiliencia
+- Adaptabilidad y resiliencia
 
-Manejo del tiempo y priorización de tareas
+- Manejo del tiempo y priorización de tareas
 
-Atención al detalle
+- Atención al detalle
 
-Empatía e inteligencia emocional
+- Empatía e inteligencia emocional
 
 Metas Profesionales 🎯
 ***
