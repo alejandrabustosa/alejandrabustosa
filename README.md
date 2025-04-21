@@ -70,8 +70,8 @@ Dashboard Desarrollo: Uso de data para crear dashboards interactivos que comuniq
 
 ## Contáctame  📫
 - [LinkedIn](www.linkedin.com/in/alejandrabustosaraya)
-- [Mail](alejandra.bustos91@gmail.com)
+  
+Entusiasmada de colaborar en proyectos relacionados a mi área de interés a la vez que voy explorando otros. Juntos podemos crear grandes cosas, conectemos! 🌍
 
-- 📫 How to reach me: ...
 - ⚡ Fun fact: Amo a los animales
 -->
