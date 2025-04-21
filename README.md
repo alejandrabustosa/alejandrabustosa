@@ -1,5 +1,5 @@
-## Hi there 👋
-Alejandra Bustos
+## Hi there 👋 Alejandra Bustos
+| Data Analyst | Empowering businesses with Actionable insights from data |
 <!--
 **alejandrabustosa/alejandrabustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
