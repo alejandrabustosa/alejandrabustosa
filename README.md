@@ -54,6 +54,8 @@ Skills 🛠️
 
 - Empatía e inteligencia emocional
 
+Proyectos 📚
+***
 Metas Profesionales 🎯
 ***
 
@@ -61,22 +63,15 @@ Usar la analítica de datos para resolver problemas reales y apoyar estratégica
 Aprender de la experiencia de otros para así poder contribuir de mejor manera con mis conocimientos.
 Nivelar mis conocimientos técnicos para estar preparada ante adversidades que se presenten durante mi trabajo.
 
+Mis Servicios ✅
+***
+Data Analysis: Ofrezco servicios de data analytics tales como: data entry, data cleaning, análisis, visualización y reportería para convertir data compleja en acciones con perspectivas basadas en datos.
+Dashboard Desarrollo: Uso de data para crear dashboards interactivos que comuniquen de forma clara los insights.
 
 
 
 
 
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 
 - ⚡ Fun fact: Amo a los animales
 -->
