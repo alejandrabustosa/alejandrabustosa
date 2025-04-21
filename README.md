@@ -19,7 +19,7 @@ Data Analytics & Visualización:
 Power BI
 Excel (Tablas dinámicas, Power Query, Gráficos)
 
-SQL (MySQL)
+SQL (MySQL) aprendiendo ⌛️
 
 Looker Studio
 
@@ -37,14 +37,39 @@ Canva
 Habilidades blandas:
 
 Comunicación y hablar en público
+
 Enseñar
+
 Trabajo en equipo
-Problem-Solving & Decision-making
+
+Resolución de problemas
+
 Pensamiento crítico
+
 Adaptabilidad y resiliencia
+
 Manejo del tiempo y priorización de tareas
+
 Atención al detalle
+
 Empatía e inteligencia emocional
+
+Metas Profesionales 🎯
+***
+
+Usar la analítica de datos para resolver problemas reales y apoyar estratégicamente la toma de decisiones de negocios.
+Aprender de la experiencia de otros para así poder contribuir de mejor manera con mis conocimientos.
+Nivelar mis conocimientos técnicos para estar preparada ante adversidades que se presenten durante mi trabajo.
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
