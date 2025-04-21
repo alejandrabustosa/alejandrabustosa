@@ -68,9 +68,9 @@ Mis Servicios ✅
 Data Analysis: Ofrezco servicios de data analytics tales como: data entry, data cleaning, análisis, visualización y reportería para convertir data compleja en acciones con perspectivas basadas en datos.
 Dashboard Desarrollo: Uso de data para crear dashboards interactivos que comuniquen de forma clara los insights.
 
-
-
-
+## Contáctame  📫
+- [LinkedIn](www.linkedin.com/in/alejandrabustosaraya)
+- [Mail](alejandra.bustos91@gmail.com)
 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Amo a los animales
