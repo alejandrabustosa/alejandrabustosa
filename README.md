@@ -17,10 +17,14 @@ Skills 🛠️
 Data Analytics & Visualización:
 
 Power BI
-Excel (Tablas dinámicas, Power Query, gráficos)
+Excel (Tablas dinámicas, Power Query, Gráficos)
+
 SQL (MySQL)
+
 Looker Studio
+
 Tableau
+
 Airtable
 
 Web & Herramientas de productividad:
