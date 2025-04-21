@@ -1,4 +1,4 @@
-## Hi there 👋 Alejandra Bustos
+## Hi👋 Alejandra Bustos
 | Data Analyst | Empowering businesses with Actionable insights from data |
 ***
 Misión 🎯
@@ -11,6 +11,33 @@ About Me 👩‍💻
 Soy una analisa de datos apasionada por los insights que generan impacto, crecimiento e innovación. Con experiencia en diferentes herramientas de BI, además de una mente abierta y curiosa ya sea explorando nuevas herramientas de data o desarrollando soluciones, mi meta es siempre la misma: inspirar, empoderar y dejar un legado de excelencia a través de mi trabajo.
 
 Motivada por la resiliencia, la curiosidad y el deseo de ser una mejor versión de mi misma, continúo creciendo.
+Skills 🛠️
+***
+Data Analytics & Visualización:
+
+Power BI
+Excel (Tablas dinámicas, Power Query, gráficos)
+SQL (MySQL)
+Looker Studio
+Tableau
+Airtable
+
+Web & Herramientas de productividad:
+
+Microsoft Office Suite
+Canva
+
+Habilidades blandas:
+
+Comunicación y hablar en público
+Enseñar
+Trabajo en equipo
+Problem-Solving & Decision-making
+Pensamiento crítico
+Adaptabilidad y resiliencia
+Manejo del tiempo y priorización de tareas
+Atención al detalle
+Empatía e inteligencia emocional
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
