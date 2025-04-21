@@ -66,6 +66,7 @@ Nivelar mis conocimientos técnicos para estar preparada ante adversidades que s
 Mis Servicios ✅
 ***
 Data Analysis: Ofrezco servicios de data analytics tales como: data entry, data cleaning, análisis, visualización y reportería para convertir data compleja en acciones con perspectivas basadas en datos.
+
 Dashboard Desarrollo: Uso de data para crear dashboards interactivos que comuniquen de forma clara los insights.
 
 ## Contáctame  📫
@@ -73,5 +74,4 @@ Dashboard Desarrollo: Uso de data para crear dashboards interactivos que comuniq
   
 Entusiasmada de colaborar en proyectos relacionados a mi área de interés a la vez que voy explorando otros. Juntos podemos crear grandes cosas, conectemos! 🌍
 
-- ⚡ Fun fact: Amo a los animales
--->
+- ⚡ Fun fact: Amo a los animales.
