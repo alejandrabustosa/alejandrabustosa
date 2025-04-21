@@ -27,9 +27,11 @@ Tableau
 
 Airtable
 
+
 Web & Herramientas de productividad:
 
 Microsoft Office Suite
+
 Canva
 
 Habilidades blandas:
