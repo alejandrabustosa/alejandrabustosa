@@ -11,6 +11,7 @@ About Me 👩‍💻
 Soy una analisa de datos apasionada por los insights que generan impacto, crecimiento e innovación. Con experiencia en diferentes herramientas de BI, además de una mente abierta y curiosa ya sea explorando nuevas herramientas de data o desarrollando soluciones, mi meta es siempre la misma: inspirar, empoderar y dejar un legado de excelencia a través de mi trabajo.
 
 Motivada por la resiliencia, la curiosidad y el deseo de ser una mejor versión de mi misma, continúo creciendo.
+
 Skills 🛠️
 ***
 Data Analytics & Visualización:
