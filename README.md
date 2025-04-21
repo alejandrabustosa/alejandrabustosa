@@ -3,7 +3,7 @@
 ***
 Misión 🎯
 ***
-Enmpoderar personas y organizaciones a través de la toma de decisiones y soluciones basadas en datos para tomar acciones con propósito. Aspiro a crear un impacto significativo creando soluciones a problemas de negocios a través de la resiliencia, la amabilidad y la innovación.
+Enpoderar personas y organizaciones a través de la toma de decisiones y soluciones basadas en datos para tomar acciones con propósito. Aspiro a crear un impacto significativo creando soluciones a problemas de negocios a través de la resiliencia, la amabilidad y la innovación.
 
 About Me 👩‍💻
 ***
