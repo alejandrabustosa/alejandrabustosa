@@ -57,6 +57,8 @@ Skills 🛠️
 Proyectos 📚
 ***
 [Informes en Power BI]https://github.com/alejandrabustosa/PowerBIDashboards
+[Informes en Excel]https://github.com/alejandrabustosa/ExcelDashboards
+
 Metas Profesionales 🎯
 ***
 
